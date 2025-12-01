@@ -1,26 +1,17 @@
-# Raylib C++ Starter Template
+# Project Strukdat
 
-Raylib C++ Starter Template for Visual Studio Code on Windows.
+Pada project matkul ini kita diminta untuk membuat simulasi sederhana yang menampilkan bola bergerak terus menerus dan akan memantul jika menyentuh jendela atau bola lain dengan minimal menggunakan BruteForce dan Quadtree. Disini menggunakan raylib sebagai library dan ada tambahan fitur.
 
-This demo project contains a bouncing ball raylib example program.
 
-It works with raylib version 4.5.
-Tested on both Windows 10 and Windows 11.
 
-# Video Tutorial
 
 <p align="center">
   <img src="preview.jpg" alt="" width="800">
 </p>
 
-<p align="center">
-🎥 <a href="https://www.youtube.com/watch?v=PaAcVk5jUd8">Video Tutorial on YouTube</a>
-</p>
+
 
 <br>
 <br>
-<p align="center">
-| 📺 <a href="https://www.youtube.com/channel/UC3ivOTE5EgpmF2DHLBmWIWg">My YouTube Channel</a>
-| 🌍 <a href="https://www.programmingwithnick.com">My Website</a> | <br>
-</p>
+
 
