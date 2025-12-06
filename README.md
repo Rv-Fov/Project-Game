@@ -24,7 +24,9 @@ Pada project matkul ini kita diminta untuk membuat simulasi sederhana yang menam
   <img src="Library.jpg" alt="" width="800">
 </p>
 
+// Sintaks: ![Teks Alternatif](path/ke/gambar)
 
+![Kode_Program](Raylib-CPP-Starter-Template-for-VSCODE-main/kode_1.png)
 
 <br>
 <br>
